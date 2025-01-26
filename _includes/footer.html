@@ -1,0 +1,9 @@
+<footer class="d-flex flex-wrap justify-content-center align-items-center border-top border-secondary py-1">
+    <ul class="nav col-md-4 justify-content-center list-unstyled d-flex">
+        {% for item in site.data.nav.social %}
+        <li class="ms-6">
+            <a class="nav-item nav-link footer-icon text-muted" href="{{ item.url }}" target="_blank"><i class="fa-{{ item.type }} fa-{{ item.name }}" title="{{ item.title }}"></i></a>
+        </li>
+        {% endfor %}
+    </ul>
+</footer>

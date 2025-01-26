@@ -1,0 +1,52 @@
+.header-title {
+    font-size: 20pt;
+    text-wrap: auto;
+    text-align: center;
+}
+
+.header-nav {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-icon {
+    text-decoration: none;
+    color: inherit;
+}
+
+.profile {
+    border: 1px solid #000000;
+    max-width: 250px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+hr {
+    border-top: 1px solid #6c757d;
+    width: 65%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+p {
+    margin-bottom: 0pt;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+ul {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+a:hover{
+    text-decoration: none;
+    color: #01458f;
+}
