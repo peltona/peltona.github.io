@@ -1,0 +1,44 @@
+.header-title {
+    font-size: 20pt;
+    text-wrap: auto;
+    text-align: center;
+}
+
+.header-nav {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-icon {
+    text-decoration: none;
+    color: inherit;
+}
+
+.profile {
+    border: 1px solid #000000;
+    max-width: 250px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+hr {
+    border-top: 1px solid #6c757d;
+    width: 65%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+p {
+    margin-bottom: 0pt;
+    hyphens: auto;
+}
+
+a {
+    text-decoration: none !important;
+}
