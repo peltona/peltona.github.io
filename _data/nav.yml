@@ -1,0 +1,9 @@
+menu:
+- {name: 'Home', url: '/index'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Teaching', url: '/teaching'}
+
+social:
+- {name: 'google-scholar', type: 'brands', url: 'https://scholar.google.com/citations?user=eL1vdicAAAAJ&hl=en&oi=ao', title: 'Google Scholar'}
+- {name: 'github', type: 'brands', url: 'https://github.com/peltona', title: 'GitHub'}
+- {name: 'orcid', type: 'brands', url: 'https://orcid.org/0000-0001-5131-1659', title: 'ORCID'}
